@@ -1,6 +1,9 @@
 **Name:** Maggie Zhang
+
 **Email:** maz007@ucsd.edu
+
 **Section:** D38 Efficient AI: Algorithms and Systems for Foundation Models
+
 **Mentor:** Zhijian Liu
 
 ---
